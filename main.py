@@ -4,16 +4,8 @@ import pandas
 import random
 
 # ---------------------------- CONSTANTS ------------------------------- #
-BACKGROUND_COLOR = "#B1DDC6"
-PINK = "#e2979c"
-RED = "#e7305b"
 GREEN = "#b1ddc6"
-YELLOW = "#f7f5dd"
 FONT_NAME = "Ariel"
-WORK_MIN = 25
-SHORT_BREAK_MIN = 5
-LONG_BREAK_MIN = 20
-reps = 0
 timer = None
 
 # Tries to read words_to_learn.csv
